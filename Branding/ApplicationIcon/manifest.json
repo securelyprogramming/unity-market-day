@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#f0cb7b",
+    "kind": "original-vector",
+    "motif": "Bright market stall and basket",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "a9dd4b64326040238d99cb38133c18bbb5a5effc664a28b61421fedf97897873"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 16719,
+      "sha256": "a4d689d827e564914dd35d66ffc306e1fc2a3bddc040a620ad1e897684964e3b"
+    },
+    "icon-16.png": {
+      "bytes": 837,
+      "sha256": "ea78f8e3777fac3ee7412eb86dbac4e582d573da6e6b55fb0692aad56b3833b3"
+    },
+    "icon-256.png": {
+      "bytes": 45605,
+      "sha256": "39c9b2a3a48fb1193285d7c9c42d93b4dbee34fc6b9fe9da49b423f6333d3b6b"
+    },
+    "icon-32.png": {
+      "bytes": 2180,
+      "sha256": "b3ab94568ca400efccacfb274cc582b8f03d8ad449a704d9be83bd8aa3efa45c"
+    },
+    "icon-512.png": {
+      "bytes": 119632,
+      "sha256": "399e602bb5e682929afaa16bf395929159d3fc56350ac6828b1c571b693a2d04"
+    },
+    "icon-64.png": {
+      "bytes": 6220,
+      "sha256": "35e8349ea2efdd5cac094ec24e2b3dbbccff5a9924bdc4467439712018bb87ab"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "1e03bf1bf2ed2a83062bce69e9458f02d9523e703f932df5a456eb2271999f61"
+    },
+    "icon.icns": {
+      "bytes": 557952,
+      "sha256": "f4e50bf3226959892d689b5d70f8a5bd59d58d83e0468612e1cb1250b1319552"
+    },
+    "icon.ico": {
+      "bytes": 77997,
+      "sha256": "779949321aa578e85845765968d677d4d2def8a47d358004a2129709bc8a129e"
+    },
+    "icon.png": {
+      "bytes": 233313,
+      "sha256": "f9cff187a78e92dfde145152c1a2f8b500887e09d762ea81a0c5c100dcfba5e2"
+    },
+    "source.png": {
+      "bytes": 230618,
+      "sha256": "a9dd4b64326040238d99cb38133c18bbb5a5effc664a28b61421fedf97897873"
+    },
+    "source.svg": {
+      "bytes": 1513,
+      "sha256": "f89797dbb87473046dacb7970c52c49dd7d2447b2104cd4141d3537387da1a6f"
+    }
+  },
+  "gameId": "market-day",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
