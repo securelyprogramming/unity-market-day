@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "market-day",
+  "title": "Market Day",
+  "mode": "market-day",
+  "genre": "retail-management",
+  "brief": "Restock three departments, guide impatient shoppers and run checkout accurately through escalating market days.",
+  "seed": 434,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-market-day",
+  "folder": "unity-market-day",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#e3b579",
+  "setting": "market",
+  "enemy": "customer",
+  "cast": [
+    {
+      "name": "Noor Patel",
+      "role": "shopkeeper"
+    },
+    {
+      "name": "Ed Bell",
+      "role": "delivery driver"
+    },
+    {
+      "name": "Suki",
+      "role": "market organizer"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Opening Morning",
+      "story": "Noor inherits a little shop and an empty shelf on the busiest morning of the year.",
+      "layoutSeed": 434
+    },
+    {
+      "number": 2,
+      "title": "The Festival Rush",
+      "story": "Ed keeps deliveries moving while the festival brings shoppers who will not wait forever.",
+      "layoutSeed": 607
+    },
+    {
+      "number": 3,
+      "title": "A Market for Everyone",
+      "story": "Suki asks the market to serve the whole neighborhood without forgetting the people behind the queue.",
+      "layoutSeed": 780
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}

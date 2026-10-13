@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "market-day",
+  "title": "Market Day",
+  "engine": "Unity",
+  "family": "Retail management",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Buy wholesale stock, refill matching departments, and check out shoppers before they lose patience. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-market-day",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-market-day/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-market-day/tools/StageBuilder/stage-catalog.json"
+}
