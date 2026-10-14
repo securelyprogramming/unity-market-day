@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "creator": "ProgrammingSecurely",
+  "website": "https://programmingsecurely.com/",
+  "gameTitle": "Market Day",
+  "durationSeconds": 3,
+  "showGameBehind": true,
+  "preferredPanelResources": [
+    "StudioIntroArt/Panel"
+  ],
+  "skipQaArguments": [
+    "-frontier-capture",
+    "-frontier-lan-role",
+    "-frontier-qa",
+    "-frontier-report"
+  ],
+  "purchasedPanel": {
+    "pack": "WOODEN UI",
+    "sourceProject": "unity-mayolumberjack/Assets/Resources/Art/wood_ui/panel 5.png",
+    "product": "Source game Docs/asset-manifest.json",
+    "cacheFile": "75edd885552d179b0dd31bf2bb573627496abc81e9587393bcb57186e0a72dd4.png",
+    "sha256": "75edd885552d179b0dd31bf2bb573627496abc81e9587393bcb57186e0a72dd4",
+    "bytes": 1482295,
+    "provenance": "User-owned Humble Game Dev GUI Goodness selection; original source and licence retained privately."
+  }
+}
